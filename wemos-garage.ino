@@ -121,7 +121,7 @@ void loop() {
   
   client.println("</html>");
  
-  delay(1);
+  delay(1000); //increased delay, as device was hanging after a few minutes at 1ms
   Serial.println("Client disconnected");
   Serial.println("");
  
