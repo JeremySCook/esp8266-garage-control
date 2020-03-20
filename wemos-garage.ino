@@ -8,8 +8,8 @@
 
 // Below you will need to use your own WIFI informaiton.
 
-const char* ssid = "BHNTG1682GBD42"; //WIFI Name, WeMo will only connect to a 2.4GHz network.
-const char* password = "a826c81a"; //WIFI Password
+const char* ssid = "xxxxx"; //WIFI Name, WeMo will only connect to a 2.4GHz network.
+const char* password = "xxxxx"; //WIFI Password
 
 //defining the pins and setting up the "server"
 
