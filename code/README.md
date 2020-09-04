@@ -5,6 +5,6 @@ Place this, as well as the webpage.h file in the same directory before uploading
 
 Change ssid and password around to match your system.
 
-Ignore the "original code" bit as it's there for reference on what doesn't work.
+Ignore the "oldrev" bit as it's there for reference on what doesn't work.
 
 Code is based on [Brian Lough's work found here](https://github.com/witnessmenow/WiFi-WFH-Indicator/tree/master/WFH_SIGN_WIFI_WEB). Thanks so much for your help getting this to run, Brian!
